@@ -61,3 +61,4 @@ package-lock.json
 routeTree.gen.ts
 
 .claude
+.tanstack
